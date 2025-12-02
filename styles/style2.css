@@ -1,0 +1,99 @@
+:root {
+    --color-bg-deep: #0a2239;
+    --color-bg-medium: #2b5a80;
+    --color-accent-cyan: #50a7c2;
+    --color-bg-dark-grey: #1a1a1a;
+    
+    --color-retro-bg: #3a3a3a;
+    --color-retro-green: #52665a;
+    --color-retro-text: #b0b0b0;
+    --color-retro-accent: #a8b1a0;
+    
+    --color-text: #e0e0e0;
+    --color-status-stable: #50c2a0;
+    --color-status-warning: #f0a04b;
+    --color-status-danger: #d94e4e;
+    --color-status-extinction: #b04ed9; 
+   
+    --font-title: 'Bebas Neue', sans-serif;
+    --font-body: 'Lato', sans-serif;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-bg-dark-grey);
+    color: var(--color-text);
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: var(--font-title);
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 30px;
+    color: var(--color-accent-cyan);
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-accent-cyan);
+}
+
+.flex-blocs {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.flex-blocs article {
+    flex: 1;
+    background: rgba(0,0,0,0.5);
+    padding: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(3px);
+    color: white;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background-color: var(--color-bg-deep);
+    font-size: 0.8rem;
+    color: white;
+    margin-top: 40px;
+}
+
+.DetailJW2 {
+    min-height: 100vh;
+    background-image: url('../images/Jurassic-World-Fallen-Kingdom.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.DetailJW3 {
+    min-height: 100vh;
+    background-image: url('../images/Jurassic-World-Dominion.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.DetailJW4 {
+    min-height: 100vh;
+    background-image: url('../images/Jurassic-World-Rebirth.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
