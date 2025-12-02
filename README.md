@@ -43,7 +43,7 @@ TP03_Maxime_Lafortune_Danny_Mac/
 
 
 ## Instructions
-- Ouvrir `main.html` dans un navigateur pour commencer l’aventure.  
+- Ouvrir `index.html` dans un navigateur pour commencer l’aventure.  
 - Cliquer sur les options pour naviguer dans le site web.  
 - Les images sont placées dans `/images/`.  
 - La vidéo est déposée dans `/video/`.
@@ -60,4 +60,4 @@ TP03_Maxime_Lafortune_Danny_Mac/
 - Remise : 2 décembre 2025
 
 ## Lien GitHub Pages
-- https://redslimegun.github.io/Jurassic-Evolution
+- https://github.com/Redslimegun/Jurassic-Evolution.git
