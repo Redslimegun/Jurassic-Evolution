@@ -58,3 +58,6 @@ TP03_Maxime_Lafortune_Danny_Mac/
 - **Lafortune Maxime** **Mac Danny**
 - Cours : 582-W1A-BB 00001 Introduction au développement Web
 - Remise : 2 décembre 2025
+
+## Lien GitHub Pages
+- https://redslimegun.github.io/Jurassic-Evolution
