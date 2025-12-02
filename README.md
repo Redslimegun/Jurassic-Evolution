@@ -60,4 +60,4 @@ TP03_Maxime_Lafortune_Danny_Mac/
 - Remise : 2 décembre 2025
 
 ## Lien GitHub Pages
-- https://github.com/Redslimegun/Jurassic-Evolution.git
+- https://redslimegun.github.io/Jurassic-Evolution/
